@@ -1,5 +1,6 @@
 # Issue and Pull Request Templates
 Here you will find my **issue** and **pull requests** templates.
+
 If you want to see the template make sure to inspect the code, as they have commented lines that are considered optional.
 
 ## ISSUE TEMPLATES
