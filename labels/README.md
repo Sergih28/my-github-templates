@@ -13,7 +13,7 @@ To use the script, follow these steps:
 
 1. Go to the project's labels section (the one you want to export the labels)
 1. Open the browser console (_Option + ⌘ + j or Shift + Ctrl + j_)
-1. Paste the code from [the script](export_github_labels.js)
+1. Paste the code from [the script](export_github_labels.js) and run it
 1. Grab the json code that appeared on the console and save it somewhere
 
 _Keep in mind that if there are multiple pages for the labels, you will need to export them page by page._
