@@ -1,0 +1,182 @@
+[
+  {
+    "name": "priority: critical",
+    "description": "Critical priority.",
+    "color": "b60205"
+  },
+  {
+    "name": "priority: high",
+    "description": "High priority.",
+    "color": "fbca04"
+  },
+  {
+    "name": "priority: low",
+    "description": "Low priority, no rush.",
+    "color": "fef2c0"
+  },
+  {
+    "name": "priority: medium",
+    "description": "Standard priority.",
+    "color": "0052cc"
+  },
+  {
+    "name": "status: abandoned",
+    "description": "Abandoned.",
+    "color": "b60205"
+  },
+  {
+    "name": "status: waiting",
+    "description": "Waiting for a project collaborator to decide where to categorize this issue.",
+    "color": "e99695"
+  },
+  {
+    "name": "status: available",
+    "description": "Ready to start.",
+    "color": "fbca04"
+  },
+  {
+    "name": "status: finished",
+    "description": "Completed.",
+    "color": "fef2c0"
+  },
+  {
+    "name": "status: in progress",
+    "description": "In progress.",
+    "color": "0052cc"
+  },
+  {
+    "name": "status: on hold",
+    "description": "Waiting.",
+    "color": "5319e7"
+  },
+  {
+    "name": "status: wontfix",
+    "description": "Will not fix.",
+    "color": "b60205"
+  },
+  {
+    "name": "type: invalid",
+    "description": "Invalid issue or PR. Should be closed.",
+    "color": "b60205"
+  },
+  {
+    "name": "type: bug",
+    "description": "Has errors.",
+    "color": "b60205"
+  },
+  {
+    "name": "type: code optimization",
+    "description": "Code improvements.",
+    "color": "1d76db"
+  },
+  {
+    "name": "type: dependencies",
+    "description": "Pull requests that update a dependency file.",
+    "color": "f9d0c4"
+  },
+  {
+    "name": "type: design",
+    "description": "Design.",
+    "color": "e99695"
+  },
+  {
+    "name": "type: discussion",
+    "description": "Let's talk about it.",
+    "color": "d4C5f9"
+  },
+  {
+    "name": "type: documentation",
+    "description": "Documentation.",
+    "color": "0052cc"
+  },
+  {
+    "name": "type: duplicate",
+    "description": "Duplicate.",
+    "color": "d93f0b"
+  },
+  {
+    "name": "type: enhancement",
+    "description": "Improvement of an existing feature.",
+    "color": "0e8a16"
+  },
+  {
+    "name": "type: legal",
+    "description": "Legal.",
+    "color": "5319e7"
+  },
+  {
+    "name": "type: new feature",
+    "description": "New addition to the project.",
+    "color": "fbca04"
+  },
+  {
+    "name": "type: security",
+    "description": "Security.",
+    "color": "b60205"
+  },
+  {
+    "name": "type: feature request",
+    "description": "Request a new feature or improvement.",
+    "color": "e99695"
+  },
+  {
+    "name": "type: translation",
+    "description": "Translation.",
+    "color": "fef2c0"
+  },
+  {
+    "name": "type: test",
+    "description": "Involves testing.",
+    "color": "006b75"
+  },
+  {
+    "name": "type: question",
+    "description": "Ask a question.",
+    "color": "c2e0c6"
+  },
+  {
+    "name": "css",
+    "description": "CSS related.",
+    "color": "1d76db"
+  },
+  {
+    "name": "react",
+    "description": "React related.",
+    "color": "0052cc"
+  },
+  {
+    "name": "redux",
+    "description": "Redux related.",
+    "color": "5319e7"
+  },
+  {
+    "name": "good first issue",
+    "description": "Good issue to start working for the first time on this project.",
+    "color": "fbca04"
+  },
+  {
+    "name": "first timers only",
+    "description": "Open for anyone doing contributions for the first time.",
+    "color": "0e8a16"
+  },
+  {
+    "name": "help wanted",
+    "description": "We need help solving this issue.",
+    "color": "5319e7"
+  },
+  {
+    "name": "spanish",
+    "description": "Spanish translations.",
+    "color": "fef2c0"
+  },
+  {
+    "name": "english",
+    "description": "English translations.",
+    "color": "fef2c0"
+  },
+  {
+    "name": "catalan",
+    "description": "Catalan translations.",
+    "color": "fef2c0"
+  },
+]
