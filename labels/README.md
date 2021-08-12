@@ -1,5 +1,7 @@
 # Labels
 
+**[Labels list](./github_labels.json)**
+
 **How to:**
 1. [Export labels](#export) from the project you'd like. _If you wish to use my labels, you can grab them from [here](github_labels.json)._
 1. [Import labels](#import) to the project you want to use them.
