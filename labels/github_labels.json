@@ -10,14 +10,14 @@
     "color": "fbca04"
   },
   {
-    "name": "priority: low",
-    "description": "Low priority, no rush.",
-    "color": "fef2c0"
-  },
-  {
     "name": "priority: medium",
     "description": "Standard priority.",
     "color": "0052cc"
+  },
+  {
+    "name": "priority: low",
+    "description": "Low priority, no rush.",
+    "color": "fef2c0"
   },
   {
     "name": "status: abandoned",
@@ -145,11 +145,6 @@
     "color": "0052cc"
   },
   {
-    "name": "redux",
-    "description": "Redux related.",
-    "color": "5319e7"
-  },
-  {
     "name": "good first issue",
     "description": "Good issue to start working for the first time on this project.",
     "color": "fbca04"
@@ -178,5 +173,5 @@
     "name": "catalan",
     "description": "Catalan translations.",
     "color": "fef2c0"
-  },
+  }
 ]
