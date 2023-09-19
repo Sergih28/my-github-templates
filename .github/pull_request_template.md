@@ -1,23 +1,58 @@
-## 📄 Related issue
-<!-- Issue goes here
-#NUMBER -->
+## What type of PR is this? (Check all applicable)
 
-## 📝 Proposed changes
+- [ ] 🚀 Feature
+- [ ] 🐛 Bug Fix
+- [ ] 📚 Documentation
+- [ ] 💻 Blog post
+- [ ] 🎨 Styles
+- [ ] 🛠️ Refactoring
+- [ ] 🕵️‍♀️ Code Review
+- [ ] 🚑 Hotfix
+- [ ] 🧪 Test
+- [ ] 🌐 Localization/Internationalization
+- [ ] ⚙️  Configuration and Environment
+- [ ] 🚫 Deprecation or Removal
+- [ ] 📦 Release
+- [ ] ⏪ Revert
 
+## Description
 
-<!-- ## ℹ️ Additional info
-If needed add any other things to note -->
+**Please describe the changes in this pull request:**
 
-<!-- ## ✅ Checklist
-If you need a checklist to mark completed tasks -->
-<!--
-- [ ] item 1
-- [ ] item 2
--->
+Replace this text with a clear and concise description of what you've done.
 
-<!--## 🖼 Screenshots
-If it adds value to put a before and after screenshots
-** Before **
+## Related Issues
 
-** After **
--->
+Please link related issues by removing lines that are not applicable.
+
+- Fixes #123
+- Addresses #456
+
+## Checklist
+
+**Before submitting this pull request, please make sure you have done the following:**
+
+### Code Quality
+
+- [ ] Reviewed your code for any potential issues.
+- [ ] Checked for coding style and formatting.
+
+### Updated documentation?
+
+- [ ] ✅ Yes
+- [ ] 🙅 No, because there is nothing to update
+- [ ] 🙋‍♂️ No, I need help
+
+### Added tests for your changes?
+
+- [ ] ✅ Yes
+- [ ] 🙅 No, because they are not needed
+- [ ] 🙋‍♂️ No, I need help
+
+### UI Changes
+
+- [ ] Added screenshots or recordings to demonstrate UI-related changes (if applicable).
+
+## Additional Information
+
+Replace this text with any additional information.
