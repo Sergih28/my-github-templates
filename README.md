@@ -6,10 +6,10 @@ If you want to see the templates make sure to inspect the code, as they have com
 
 ## 📝 ISSUE TEMPLATES
 
-- [📎 GENERAL](.github/ISSUE_TEMPLATE/_general.md): Used when none of the other ones fit for that issue.
-- [🐞 BUG REPORT](.github/ISSUE_TEMPLATE/bug_report.md): Used for bug reports.
-- [➕ FEATURE REQUEST](.github/ISSUE_TEMPLATE/feature_request.md): Used to request new features.
-- [🌐 TRANSLATIONS](.github/ISSUE_TEMPLATE/translations.md): Used when it is related to translations.
+- [📎 GENERAL](.github/ISSUE_TEMPLATE/general.md): Used when none of the other ones fit for that issue.
+- [🐞 BUG REPORT](.github/ISSUE_TEMPLATE/bug.md): Used for bug reports.
+- [➕ FEATURE REQUEST](.github/ISSUE_TEMPLATE/feature.md): Used to request new features.
+- [🌐 TRANSLATIONS](.github/ISSUE_TEMPLATE/translation.md): Used when it is related to translations.
 
 ## 📝 PULL REQUEST TEMPLATES
 
